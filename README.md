@@ -1,5 +1,7 @@
 Trabajo Grupal universitario para la materia Deeplearnig
 
+Hecho por: Andres Felipe Mosquera, David Ortiz, Esteban Ramirez, Erika Pino, Juan Vasquez
+
 Descripción general:
 
 Es un sistema de inteligencia artificial que lee documentos PDF, extrae su texto y lo clasifica automáticamente por tipo de contenido usando una red neuronal.
